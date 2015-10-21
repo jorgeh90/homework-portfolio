@@ -1,0 +1,53 @@
+body {
+  font-family: times;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 50px;
+  border-bottom: 5px solid #222222;
+  border-top: 5px solid #222222;
+  padding: 30px;
+  background: #F6F6F6;
+}
+
+strong {
+  color: #030609;
+  font-style: oblique;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #222222;
+  margin: 10px 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+	font-family: times;
+}
+
+h3 {
+	  text-transform: uppercase;
+	  font-size: 18px;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+nav{
+	text-align: center;
+}
+
+img {
+  margin: 40px 0px 0px 0px;
+  padding:1px;
+  border:1px solid #021a40;
+  background-color: white;
+}
+
+.red {
+	text-align: center;
+}

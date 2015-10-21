@@ -1,0 +1,97 @@
+body {
+  font-family: courier;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 20px;
+  border-bottom: 5px solid #222222;
+  border-top: 5px solid #222222;
+  padding: 50px;
+  background: #F6F6F6;
+}
+
+a {
+  font-weight: bold;
+  font-family: courier;
+  color: #05080C;
+}
+
+small {
+  color: #05080C;
+}
+
+strong {
+  color: #030609;
+  font-style: oblique;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: #030609;
+  margin-top: 0;
+}
+
+h2 {
+  color: #030609;
+}
+
+h3 {
+  font-size: 20px;
+  color: #030609;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin-top: 42px;
+}
+
+p {
+  font-family: courier;
+  margin-top: 0;
+  margin-bottom: 27px;
+  color: #05080C;
+}
+
+ul p {
+  color: #05080C;
+}
+
+li {
+  color: #05080C;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #222222;
+  margin: 30px 0;
+}
+
+img {
+  /*float: right;*/
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #222222;
+  padding: 5px;
+  text-align: center
+}
+
+img[alt] {
+  float: right;
+}
+
+nav {
+  color: red;
+  text-align: center;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+}
+
+.green {
+  font-size: 9px;
+  font-family: courier;
+  margin-top: 0;
+  margin-bottom: 27px;
+  color: #05080C;
+}
